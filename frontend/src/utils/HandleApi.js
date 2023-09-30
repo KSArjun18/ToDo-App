@@ -1,7 +1,7 @@
 import axios from "axios";
 
 //Backend URL
-const baseUrl = "http://localhost:5000";
+const baseUrl = "https://backend-todo-nxgm.onrender.com";
 
 //getting all todos
 const getAllToDo = (setToDo) => {
